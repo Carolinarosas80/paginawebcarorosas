@@ -1,0 +1,20 @@
+// Variables globales
+@import"./variables";
+
+// Mixins reutilizables
+@import "./mixins";
+
+// Estilos base
+@import "./base";
+
+// Componentes globales
+@import "./header";
+@import "./footer";
+
+// Estilos específicos de páginas
+@import "./home";
+@import "./secciones";
+@import"./productos";
+@import"./about";
+@import"./contact";
+@import "./responsive";
